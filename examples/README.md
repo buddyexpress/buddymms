@@ -1,0 +1,1 @@
+This folder is not part of Application folder, and can run without bframework + BMMS in easy words this is standalone folder which is used to call BMMS in your any application
