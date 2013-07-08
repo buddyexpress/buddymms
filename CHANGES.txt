@@ -1,0 +1,7 @@
+BMMS ( Buddyexpress Mail Managment System ) V1.0-development
+=============================================================
+
+Know Issues:
+    * Sql Injections.
+    * Installer is still left.
+   
