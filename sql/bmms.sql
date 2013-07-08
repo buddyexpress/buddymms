@@ -64,7 +64,7 @@ CREATE TABLE IF NOT EXISTS `bmms_users` (
 --
 
 INSERT INTO `bmms_users` (`id`, `type`, `name`, `username`, `email`, `password`) VALUES
-(1, 'admin', 'Arsalan Shah', 'admin', 'admin@localhost', '4e075844d2e00e4c800c8c62716bed8c');
+(1, 'admin', 'Arsalan Shah', 'admin', 'admin@localhost', '21232f297a57a5a743894a0e4a801fc3');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
