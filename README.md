@@ -12,3 +12,5 @@ The project was started in 2013 by Leoard Walter or Syed Arsalan Hussain Shah <a
 
 For installation instructions, see support/INSTALLATION.txt.
 How to use? please see http://ask.buddyexpress.net/29/how-to-install-buddymms
+
+For Api Examples see: http://ask.buddyexpress.net/32/send-a-mail-from-mail-server-using-api
