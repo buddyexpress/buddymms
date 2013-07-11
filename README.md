@@ -14,3 +14,12 @@ For installation instructions, see support/INSTALLATION.txt.
 How to use? please see http://ask.buddyexpress.net/29/how-to-install-buddymms
 
 For Api Examples see: http://ask.buddyexpress.net/32/send-a-mail-from-mail-server-using-api
+
+
+Prerequisites
+==============
+
+* PHP 5.3 OR >
+* MYSQL 
+* PHP LIB CURL
+* APACHE WEB SERVER
