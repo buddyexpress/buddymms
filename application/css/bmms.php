@@ -1,4 +1,4 @@
-/**
+/*
  * Buddyexpress Mail Managment System
  *
  * @package   Bframework
