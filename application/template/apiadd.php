@@ -14,6 +14,6 @@ $params = array(
                        'action' => bframework_get_url().'action/apiadd',
                         'method' => 'POST',
                          ),
-'body' => bframework_view_form('apidadd'));
+'body' => bframework_view_form('apiadd'));
 						 
 echo bframework_form($params);
