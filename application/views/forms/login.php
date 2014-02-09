@@ -8,7 +8,7 @@
  * @copyright 2013 BUDDYEXPRESS.
  * @license   Buddyexpress Public License http://www.buddyexpress.net/Licences/bpl/ 
  * @link      http://www.buddyexpress.net
- */s
+ */
 
 $form = '<div class="bmms-forms">';
 
