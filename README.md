@@ -23,3 +23,5 @@ Prerequisites
 * MYSQL 
 * PHP LIB CURL
 * APACHE WEB SERVER
+
+COPYRIGHT 2014 Informatikon Technologies informatikon.com
